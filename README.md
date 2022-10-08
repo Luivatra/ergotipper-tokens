@@ -35,3 +35,4 @@ To add a token to the list, simply create a PR that adds your token to the list.
 | 94180232cc0d91447178a0a995e2c14c57fbf03b06d5d87d5f79226094f52ffc | eTOSI | 6 | 
 | 6de6f46e5c3eca524d938d822e444b924dbffbe02e5d34bd9dcd4bbfe9e85940 | ogre | 0 | 
 | 1fd6e032e8476c4aa54c18c1a308dce83940e8f4a28f576440513ed7326ad489 | Paideia | 4 | 
+| e8b20745ee9d18817305f32eb21015831a48f02d40980de6e849f886dca7f807 | Flux | 8 |
