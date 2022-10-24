@@ -36,3 +36,4 @@ To add a token to the list, simply create a PR that adds your token to the list.
 | 6de6f46e5c3eca524d938d822e444b924dbffbe02e5d34bd9dcd4bbfe9e85940 | ogre | 0 | 
 | 1fd6e032e8476c4aa54c18c1a308dce83940e8f4a28f576440513ed7326ad489 | Paideia | 4 | 
 | e8b20745ee9d18817305f32eb21015831a48f02d40980de6e849f886dca7f807 | Flux | 8 |
+| 18c938e1924fc3eadc266e75ec02d81fe73b56e4e9f4e268dffffcb30387c42d | AHT | 4 |
