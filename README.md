@@ -37,3 +37,4 @@ To add a token to the list, simply create a PR that adds your token to the list.
 | 1fd6e032e8476c4aa54c18c1a308dce83940e8f4a28f576440513ed7326ad489 | Paideia | 4 | 
 | e8b20745ee9d18817305f32eb21015831a48f02d40980de6e849f886dca7f807 | Flux | 8 |
 | 18c938e1924fc3eadc266e75ec02d81fe73b56e4e9f4e268dffffcb30387c42d | AHT | 4 |
+| 3405d8f709a19479839597f9a22a7553bdfc1a590a427572787d7c44a88b6386 | love | 0 |
