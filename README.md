@@ -38,3 +38,4 @@ To add a token to the list, simply create a PR that adds your token to the list.
 | e8b20745ee9d18817305f32eb21015831a48f02d40980de6e849f886dca7f807 | Flux | 8 |
 | 18c938e1924fc3eadc266e75ec02d81fe73b56e4e9f4e268dffffcb30387c42d | AHT | 4 |
 | 3405d8f709a19479839597f9a22a7553bdfc1a590a427572787d7c44a88b6386 | love | 0 |
+| 4c8ac00a28b198219042af9c03937eecb422b34490d55537366dc9245e85d4e1 | WoodenNickels | 6 |
