@@ -41,3 +41,4 @@ To add a token to the list, simply create a PR that adds your token to the list.
 | 4c8ac00a28b198219042af9c03937eecb422b34490d55537366dc9245e85d4e1 | WoodenNickels | 6 |
 | 9a06d9e545a41fd51eeffc5e20d818073bf820c635e2a9d922269913e0de369d | SPF | 6 |
 | d1d2ae2ac0456aa43550dd4fda45e4f866d523be9170d3a3e4cab43a83926334 | GreasyCex | 0 |
+| ba553573f83c61be880d79db0f4068177fa75ab7c250ce3543f7e7aeb471a9d2 | $bass | 7 |
