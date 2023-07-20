@@ -43,3 +43,4 @@ To add a token to the list, simply create a PR that adds your token to the list.
 | d1d2ae2ac0456aa43550dd4fda45e4f866d523be9170d3a3e4cab43a83926334 | GreasyCex | 0 |
 | ba553573f83c61be880d79db0f4068177fa75ab7c250ce3543f7e7aeb471a9d2 | $bass | 7 |
 | 91289d5cefb9d78e3ea248d4e9c5b0e3c3de54f64bfae85c0070580961995262 | PEPERG | 0 |
+| 2a4db3601ab5835392d5202b3f88c13932f338c539ba5f131fb1370bf60f32b3 | Gyros | 0 |
