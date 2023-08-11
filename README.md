@@ -45,3 +45,4 @@ To add a token to the list, simply create a PR that adds your token to the list.
 | 91289d5cefb9d78e3ea248d4e9c5b0e3c3de54f64bfae85c0070580961995262 | PEPERG | 0 |
 | 2a4db3601ab5835392d5202b3f88c13932f338c539ba5f131fb1370bf60f32b3 | Gyros | 0 |
 | 0fdb7ff8b37479b6eb7aab38d45af2cfeefabbefdc7eebc0348d25dd65bc2c91 | $Lambo | 0 |
+| e4cd7223e477aed9d72ed4ce6257f54087de35c5184204e4ad2050633ee0a336 | SB ELLISON | 0 |
