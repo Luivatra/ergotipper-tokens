@@ -1,6 +1,6 @@
 # Supported tokens in the ergotipper bot
 
-To add a token to the list, simply create a PR that adds your token to the list. A token name should not contain whitespace, so if your token does have whitespace in the name make sure to replace/remove it. 
+To add a token to the list, simply create a PR that adds your token to the list. A token name should not contain whitespace, so if your token does have whitespace in the name make sure to replace/remove it. To avoid clutter in the token list add NFT's to the separate list below.
 
 ## Supported token list
 | Token ID | Token Name | Token decimals |
@@ -45,6 +45,10 @@ To add a token to the list, simply create a PR that adds your token to the list.
 | 91289d5cefb9d78e3ea248d4e9c5b0e3c3de54f64bfae85c0070580961995262 | PEPERG | 0 |
 | 2a4db3601ab5835392d5202b3f88c13932f338c539ba5f131fb1370bf60f32b3 | Gyros | 0 |
 | 0fdb7ff8b37479b6eb7aab38d45af2cfeefabbefdc7eebc0348d25dd65bc2c91 | $Lambo | 0 |
+
+## Supported NFT list
+| Token ID | Token Name | Token decimals |
+| --- | --- | --- |
 | e4cd7223e477aed9d72ed4ce6257f54087de35c5184204e4ad2050633ee0a336 | SBELLISON | 0 |
 | 634a3fbc3bd59bcc13b81a7718ce692b7a662a009c1d5bb340fab6267de2879d | KUSHYKUSHTI | 0 |
 | 9a663c9cb83a99794e6a610ac461bf373cfac55a707274a4f1059a725f98d069 | CYTALIK | 0 |
