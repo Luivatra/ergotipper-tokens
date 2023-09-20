@@ -46,6 +46,7 @@ To add a token to the list, simply create a PR that adds your token to the list.
 | 2a4db3601ab5835392d5202b3f88c13932f338c539ba5f131fb1370bf60f32b3 | Gyros | 0 |
 | 0fdb7ff8b37479b6eb7aab38d45af2cfeefabbefdc7eebc0348d25dd65bc2c91 | $Lambo | 0 |
 | 089990451bb430f05a85f4ef3bcb6ebf852b3d6ee68d86d78658b9ccef20074f | QUACKS | 6 |
+| 956bcab1ea3ed40c91bf845fe4f2dee727fe130a95f244a41a6ee7a25f14e23f | Gluon | 6 |
 
 ## Supported NFT list
 | Token ID | Token Name | Token decimals |
