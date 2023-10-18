@@ -56,6 +56,8 @@ To add a token to the list, simply create a PR that adds your token to the list.
 | 76024eb6799eb387cfecbfdf33b31a4705e1d8cfa14f9cf5953aa0d7b20fab6e | 🔥 | 9 |
 | d9062aca5e06b0f7e236c2496be4546d8d6fb558872f61f834901f153eb52f4a | 🐻 | 0 |
 | 76ff0aed9359e15871e469306ea1f2052be424fe2a9da18623d945cbdb592fe9 | 🐋 | 1 |
+| 59a605a44682923d6cf18dcb628cdf27ab50824ca14f19be9f65e2dd56bf5ca9 | plussocial | 0 |
+| 062b3a9c0f0dfad4f39c359cd708819f692982397cd5664326816b7054af80b1 | minuscredit | 0 |
 
 ## Supported NFT list
 | Token ID | Token Name | Token decimals |
