@@ -49,6 +49,15 @@ To add a token to the list, simply create a PR that adds your token to the list.
 | 956bcab1ea3ed40c91bf845fe4f2dee727fe130a95f244a41a6ee7a25f14e23f | Gluon | 6 |
 | 7ba2a85fdb302a181578b1f64cb4a533d89b3f8de4159efece75da41041537f9 | GORT | 0 |
 | bd0c25c373ad606d78412ae1198133f4573b4e4c2d4ed3fc4c2a4547c6c6e12e | 🤡 | 3 |
+| d86911596ea960781bdd2e8a5c22081e8cd3751e6fe7540d53d303250d6a1390 | 🃏 | 1 |
+| 420690e7d9c11d496b206bb8647e484d606a23e0b8446d6f87d7bbaeca1ac965 | 🍌 | 0 |
+| 8ff064e2d2ed0fdfd3ee0ed8a0832de710fbae042083daf9cd312de46cdc65cd | 🌕 | 0 |
+| 2fc598263b4f8b4183303543a48757783dbdc9f798d073db3b52779b9a5bbccb | 🚀 | 0 |
+| 76024eb6799eb387cfecbfdf33b31a4705e1d8cfa14f9cf5953aa0d7b20fab6e | 🔥 | 9 |
+| d9062aca5e06b0f7e236c2496be4546d8d6fb558872f61f834901f153eb52f4a | 🐻 | 0 |
+| 76ff0aed9359e15871e469306ea1f2052be424fe2a9da18623d945cbdb592fe9 | 🐋 | 1 |
+| 59a605a44682923d6cf18dcb628cdf27ab50824ca14f19be9f65e2dd56bf5ca9 | plussocial | 0 |
+| 062b3a9c0f0dfad4f39c359cd708819f692982397cd5664326816b7054af80b1 | minuscredit | 0 |
 
 ## Supported NFT list
 | Token ID | Token Name | Token decimals |
