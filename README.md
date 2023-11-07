@@ -55,7 +55,9 @@ To add a token to the list, simply create a PR that adds your token to the list.
 | 2fc598263b4f8b4183303543a48757783dbdc9f798d073db3b52779b9a5bbccb | 🚀 | 0 |
 | 76024eb6799eb387cfecbfdf33b31a4705e1d8cfa14f9cf5953aa0d7b20fab6e | 🔥 | 9 |
 | d9062aca5e06b0f7e236c2496be4546d8d6fb558872f61f834901f153eb52f4a | 🐻 | 0 |
-| 76ff0aed9359e15871e469306ea1f2052be424fe2a9da18623d945cbdb592fe9 | 🐋 | 1 |
+| 76ff0aed9359e15871e469306ea1f2052be424fe2a9da18623d945cbdb592fe9 | 🐋 | 6 |
+| 420420794441d346e92b957cfdaeda234ecdda421c31436456c749f4c86dc79b | 🌶 | 0 |
+| d00daaaafb51fca1294639bb658b61e6f168f0afc8b42151753f6a1fe7bc7e8d | soon™ | 0 |
 | 59a605a44682923d6cf18dcb628cdf27ab50824ca14f19be9f65e2dd56bf5ca9 | plussocial | 0 |
 | 062b3a9c0f0dfad4f39c359cd708819f692982397cd5664326816b7054af80b1 | minuscredit | 0 |
 | 8cb5e1970e62a35581ff3bd8ae34a8ad597c296b53dd66bb0791ec3a935cc33c | pluscredit | 0 |
