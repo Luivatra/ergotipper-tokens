@@ -48,6 +48,7 @@ To add a token to the list, simply create a PR that adds your token to the list.
 | 089990451bb430f05a85f4ef3bcb6ebf852b3d6ee68d86d78658b9ccef20074f | QUACKS | 6 |
 | 956bcab1ea3ed40c91bf845fe4f2dee727fe130a95f244a41a6ee7a25f14e23f | Gluon | 6 |
 | 7ba2a85fdb302a181578b1f64cb4a533d89b3f8de4159efece75da41041537f9 | GORT | 0 |
+| 8b08cdd5449a9592a9e79711d7d79249d7a03c535d17efaee83e216e80a44c4b | RSN | 3 |
 | bd0c25c373ad606d78412ae1198133f4573b4e4c2d4ed3fc4c2a4547c6c6e12e | 🤡 | 3 |
 | d86911596ea960781bdd2e8a5c22081e8cd3751e6fe7540d53d303250d6a1390 | 🃏 | 1 |
 | 420690e7d9c11d496b206bb8647e484d606a23e0b8446d6f87d7bbaeca1ac965 | 🍌 | 0 |
