@@ -97,3 +97,5 @@ To add a token to the list, simply create a PR that adds your token to the list.
 | 2f9cfc1dc96d3668957673ac0ed1b4a1c62e44cbc940f65827f787d34bc4e8c1 | TEAMANDANULTRARARE | 0 |
 | 213c853383e03cedf0ded4d83aa5e44e1d5c8e1ed2f2482a419d5dad155b8975 | THEKROWELLULTRARARE | 0 |
 | b0e2ffe45a5c5d6cc33036bffc21696ba34b2f2b51b59aa1724afede71cbba8c | HOSKINAUTULTRARARE | 0 |
+|
+f6fc7721184b59868d895e7463515b83abb467238f239809b6ef76717e444063 | 👽 | 0 |
