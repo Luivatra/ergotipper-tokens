@@ -68,6 +68,8 @@ To add a token to the list, simply create a PR that adds your token to the list.
 | f6fc7721184b59868d895e7463515b83abb467238f239809b6ef76717e444063 | 👽 | 0 |
 | e39089d132e80331631c443c8b086f6c3c0e25d892c15e49cd38b7ec10818d45 | ERGOD | 3 |
 | f19ec440fd7eeaa4cd2f31b2ada9c6f7aceabea487cf5a6a060c0fca7789e303 | TheDip | 0 |
+| d49defd8becfb4a5601314f9f815a6dff67df093b3a0483173b47705af49bc3f | ThePump | 0 |
+| 01dce8a5632d19799950ff90bca3b5d0ca3ebfa8aaafd06f0cc6dd1e97150e7f | CYPX | 4 |
 ## Supported NFT list
 | Token ID | Token Name | Token decimals |
 | --- | --- | --- |
