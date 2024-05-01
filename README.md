@@ -74,7 +74,7 @@ To add a token to the list, simply create a PR that adds your token to the list.
 | d49defd8becfb4a5601314f9f815a6dff67df093b3a0483173b47705af49bc3f | ThePump | 0 |
 | 01dce8a5632d19799950ff90bca3b5d0ca3ebfa8aaafd06f0cc6dd1e97150e7f | CYPX | 4 |
 | b0b312cde931c8bbdac0dac5bfd8e2c03bf4611275dc967988c8d15bd5ec20e0 | Bober | 3 |
-| ac992a1ca8494be17a29c79c9bc7f2aeacf75cf3826d62f95cc921cf463c3f35 | 💩 | 0 |
+| ac992a1ca8494be17a29c79c9bc7f2aeacf75cf3826d62f95cc921cf463c3f35 | 💩 | 3 |
 | e92e54de9f378df837ffe994b37e0718de40e3939b396483d1e87417e6680ee5 | 🐶_💩_LP | 0 |
 | bee120cd962d78619cc2dee5fa0b5a6a122cf29e962ef88695d971e00273a4df | 🍺 | 0 |
 | bee120e2890bada8b4ddbaf79025b8fde23d757a8b1d1ed991ef1647d7290e1b | 🍻 | 0 |
