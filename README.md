@@ -1,3 +1,6 @@
+# Add bot to discord
+Use this link to add the bot to discord: https://discord.com/api/oauth2/authorize?client_id=904364938766733363&permissions=2048&scope=applications.commands%20bot
+
 # Supported tokens in the ergotipper bot
 
 To add a token to the list, simply create a PR that adds your token to the list. A token name should not contain whitespace, so if your token does have whitespace in the name make sure to replace/remove it. To avoid clutter in the token list add NFT's to the separate list below.
