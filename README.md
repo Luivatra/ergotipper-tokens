@@ -78,6 +78,7 @@ To add a token to the list, simply create a PR that adds your token to the list.
 | e92e54de9f378df837ffe994b37e0718de40e3939b396483d1e87417e6680ee5 | 🐶_💩_LP | 0 |
 | bee120cd962d78619cc2dee5fa0b5a6a122cf29e962ef88695d971e00273a4df | 🍺 | 0 |
 | bee120e2890bada8b4ddbaf79025b8fde23d757a8b1d1ed991ef1647d7290e1b | 🍻 | 0 |
+| 2486c279e097c3aeb8116239fca671b9000efa12d8f20c92ca5b7795a359e041 | Fucks | 0 |
 ## Supported NFT list
 | Token ID | Token Name | Token decimals |
 | --- | --- | --- |
