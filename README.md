@@ -67,6 +67,7 @@ To add a token to the list, simply create a PR that adds your token to the list.
 | 8cb5e1970e62a35581ff3bd8ae34a8ad597c296b53dd66bb0791ec3a935cc33c | pluscredit | 0 |
 | 1465c9b9de602bd75f8f38df83118e2c8b1d5b2f5518514dd1438149053652a8 | DarkErdoge | 6 |
 | fcfca7654fb0da57ecf9a3f489bcbeb1d43b56dce7e73b352f7bc6f2561d2a1b | ErgOne | 8 |
+| 843b5a2a0658550339c38f29827861fe459ce5206edaf17163113cccafc77af1 | GIF | 6 |
 | af1a2e8005f6ffc9e291e121d1fb08795c5a079409b8ca56e20eb2f4f6f8553b | 🐶 | 0 |
 | f6fc7721184b59868d895e7463515b83abb467238f239809b6ef76717e444063 | 👽 | 0 |
 | e39089d132e80331631c443c8b086f6c3c0e25d892c15e49cd38b7ec10818d45 | ERGOD | 3 |
