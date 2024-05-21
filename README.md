@@ -113,3 +113,5 @@ To add a token to the list, simply create a PR that adds your token to the list.
 | 2f9cfc1dc96d3668957673ac0ed1b4a1c62e44cbc940f65827f787d34bc4e8c1 | TEAMANDANULTRARARE | 0 |
 | 213c853383e03cedf0ded4d83aa5e44e1d5c8e1ed2f2482a419d5dad155b8975 | THEKROWELLULTRARARE | 0 |
 | b0e2ffe45a5c5d6cc33036bffc21696ba34b2f2b51b59aa1724afede71cbba8c | HOSKINAUTULTRARARE | 0 |
+| 72f0c249977e2bfd758e54640cb456ceba0b4e3f2989ba0ebff92d53e9e7763c | dandelions | 0 |
+| cf37fb3fb82c34ad695de48d4e2a8f38526ff6ae9840d5708cb555b775caa685 | @ergo_platform_posts | 0 |
