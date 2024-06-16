@@ -81,6 +81,7 @@ To add a token to the list, simply create a PR that adds your token to the list.
 | bee120e2890bada8b4ddbaf79025b8fde23d757a8b1d1ed991ef1647d7290e1b | 🍻 | 0 |
 | 2486c279e097c3aeb8116239fca671b9000efa12d8f20c92ca5b7795a359e041 | Fucks | 5 |
 | ccaac3de4098aa63de90c56973bb1bff7563e8c58594b2075dd04005dac13ae6 | KETCHUP | 4 |
+| 7a51950e5f548549ec1aa63ffdc38279505b11e7e803d01bcf8347e0123c88b0 | rsBTC | 8 |
 ## Supported NFT list
 | Token ID | Token Name | Token decimals |
 | --- | --- | --- |
