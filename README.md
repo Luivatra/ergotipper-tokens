@@ -84,6 +84,8 @@ To add a token to the list, simply create a PR that adds your token to the list.
 | a9beb1e13364cbbbdac4a456658477862f140725854803dfdcd8e0f4863e7a26 | MUSTARD | 4 |
 | abe0a3c2f646dcd430aac9c29d80feee865bd8b5231edb545a41105d4c8e4985 | BUNS | 4 |
 | 7a51950e5f548549ec1aa63ffdc38279505b11e7e803d01bcf8347e0123c88b0 | rsBTC | 8 |
+| 6c35aa395c7c75b0f67f7804d6930f0e11ef93c3387dc1faa86498d54af7962c | MEW | 2 |
+
 ## Supported NFT list
 | Token ID | Token Name | Token decimals |
 | --- | --- | --- |
