@@ -85,6 +85,11 @@ To add a token to the list, simply create a PR that adds your token to the list.
 | abe0a3c2f646dcd430aac9c29d80feee865bd8b5231edb545a41105d4c8e4985 | BUNS | 4 |
 | 7a51950e5f548549ec1aa63ffdc38279505b11e7e803d01bcf8347e0123c88b0 | rsBTC | 8 |
 | 6c35aa395c7c75b0f67f7804d6930f0e11ef93c3387dc1faa86498d54af7962c | MEW | 2 |
+| 7c788b124df40d5ab4d4c428dd7a1290b5b8579da4e8cbddeea060b1671312da | Pumperino | 3 |
+| 012c74dcd0920ce0c3f9f3945d509ea07b33872f3f144b816bcd7b664b22d5b3 | Troll | 0 |
+| 3ad0d09d24664f3b70d9b738a027782c337ab13e0ade901d0adc414a5ead64fd | Rubber | 2 |
+| 6fd53a3b6baa760a91af9f5ceb4200e9d3c23548b2df89333adede65a272c893 | heisenbERG | 5 |
+| 59ee24951ce668f0ed32bdb2e2e5731b6c36128748a3b23c28407c5f8ccbf0f6 | Walrus | 0 |
 | 0572bb0bab492c8de9ad94d7c49dc59998b880012c0cbe8e8cc1014043d4e263 | KarmaCoin | 0 |
 
 ## Supported NFT list
