@@ -91,6 +91,7 @@ To add a token to the list, simply create a PR that adds your token to the list.
 | 6fd53a3b6baa760a91af9f5ceb4200e9d3c23548b2df89333adede65a272c893 | heisenbERG | 5 |
 | 59ee24951ce668f0ed32bdb2e2e5731b6c36128748a3b23c28407c5f8ccbf0f6 | Walrus | 0 |
 | 0572bb0bab492c8de9ad94d7c49dc59998b880012c0cbe8e8cc1014043d4e263 | KarmaCoin | 0 |
+| 3fba7e9e77350709a1aeddd0c47ad7f7675e16cb06bd19264cecf49d16d4368f | PJs | 2 |
 
 ## Supported NFT list
 | Token ID | Token Name | Token decimals |
