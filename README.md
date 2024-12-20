@@ -96,6 +96,8 @@ To add a token to the list, simply create a PR that adds your token to the list.
 | 3e0b62c7bc36bc7abf2bf76303722c31788aa579d771e427a0b2c8357da160ba | Ergonaut | 4 |
 | 34d449dc84a27d0f8fb2166d415a7223604f6426fb2d83ee099f2312182d575d | PHP | 8 | 
 | 6ae91b0b309752896eb14025358889661da7e2078d89b4669dceef0a3d125a33 | Brick | 0 |
+| 6189882516626793e5a2f69776fd190bc6780fc7a484a8da1622486ca34eccfb | WOW!!! | 2 |
+| de3ae4b8a97fdfb808ba08fa4eb43ad7fa06248559560f93472910f09fd555ea | WTF?!? | 0 |
 
 ## Supported NFT list
 | Token ID | Token Name | Token decimals |
