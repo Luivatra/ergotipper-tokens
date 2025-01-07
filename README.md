@@ -98,6 +98,7 @@ To add a token to the list, simply create a PR that adds your token to the list.
 | 6ae91b0b309752896eb14025358889661da7e2078d89b4669dceef0a3d125a33 | Brick | 0 |
 | 6189882516626793e5a2f69776fd190bc6780fc7a484a8da1622486ca34eccfb | WOW!!! | 2 |
 | de3ae4b8a97fdfb808ba08fa4eb43ad7fa06248559560f93472910f09fd555ea | WTF?!? | 0 |
+| b780a9682ba1ea68eedfe3dd00169e414ea8968d96142ee95e2391d64df05c3d | rsDIS | 8 |
 
 ## Supported NFT list
 | Token ID | Token Name | Token decimals |
