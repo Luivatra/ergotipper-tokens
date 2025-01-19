@@ -99,6 +99,7 @@ To add a token to the list, simply create a PR that adds your token to the list.
 | 6189882516626793e5a2f69776fd190bc6780fc7a484a8da1622486ca34eccfb | WOW!!! | 2 |
 | de3ae4b8a97fdfb808ba08fa4eb43ad7fa06248559560f93472910f09fd555ea | WTF?!? | 0 |
 | b780a9682ba1ea68eedfe3dd00169e414ea8968d96142ee95e2391d64df05c3d | rsDIS | 8 |
+| 19b14267d2d8c4896da958c6eb56aa07d7a55ef5fd71dab87a6534af47cc2a5a | Rugged | 2 |
 
 ## Supported NFT list
 | Token ID | Token Name | Token decimals |
